@@ -1,7 +1,7 @@
 # site abstract
 
 en el siguiente link podras ver lo necesario para empezar a crear el sitio
-https://www.frontendpractice.com/projects/monstercat
+https://www.frontendpractice.com/projects/abstract
 
 # Abstract
 
